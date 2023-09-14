@@ -6,12 +6,19 @@ This is a python program that runs in the background on linux servers such as Ra
 For this to work, we need to setup an App Password on your Gmail account.
 
 1: Go to https://myaccount.google.com/
+
 2: Select Security.
+
 3: Under 'Signing in to Google', select 2-Step Verification.
+
 4: At the bottom of the page, select App passwords.
+
 5: Enter a name that helps you remember where you’ll use the app password.
+
 6: Select Generate.
+
 7: To enter the app password, follow the instructions on your screen. The app password is the 16-character code that is generated on your device.
+
 8: Select Done.
 
 If you follow the above steps correctly, then you should now have an App Password! 
