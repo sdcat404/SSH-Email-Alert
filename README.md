@@ -17,7 +17,7 @@ For this to work, we need to setup an App Password on your Gmail account.
 If you follow the above steps correctly, then you should now have an App Password! 
 Good job!
 
-#But, SDcat404. This doesn't work on my machine!
+# But, SDcat404. This doesn't work on my machine!
 After testing this out, it wont work on all distros, and yes this includes macOS (sorry not sorry) 
 On most linux systems the SSH logs are kept in "/var/log/auth.log" but on macOS its kept in "/var/log/system.log"
 So have a play around on line '9' and see what works for you.
